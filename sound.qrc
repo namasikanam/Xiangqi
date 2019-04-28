@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/capture.wav</file>
+        <file>sounds/checkmate.wav</file>
+    </qresource>
+</RCC>

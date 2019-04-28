@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/delicate/b-che.png</file>
+        <file>img/delicate/b-che-d.png</file>
+        <file>img/delicate/b-jiang.png</file>
+        <file>img/delicate/b-jiang-d.png</file>
+        <file>img/delicate/b-jiang-g.png</file>
+        <file>img/delicate/b-ma.png</file>
+        <file>img/delicate/b-ma-d.png</file>
+        <file>img/delicate/b-pao.png</file>
+        <file>img/delicate/b-pao-d.png</file>
+        <file>img/delicate/b-shi.png</file>
+        <file>img/delicate/b-shi-d.png</file>
+        <file>img/delicate/b-xiang.png</file>
+        <file>img/delicate/b-xiang-d.png</file>
+        <file>img/delicate/b-zu.png</file>
+        <file>img/delicate/b-zu-d.png</file>
+        <file>img/delicate/r-bing.png</file>
+        <file>img/delicate/r-bing-d.png</file>
+        <file>img/delicate/r-che.png</file>
+        <file>img/delicate/r-che-d.png</file>
+        <file>img/delicate/r-ma.png</file>
+        <file>img/delicate/r-ma-d.png</file>
+        <file>img/delicate/r-pao.png</file>
+        <file>img/delicate/r-pao-d.png</file>
+        <file>img/delicate/r-shi.png</file>
+        <file>img/delicate/r-shi-d.png</file>
+        <file>img/delicate/r-shuai.png</file>
+        <file>img/delicate/r-shuai-d.png</file>
+        <file>img/delicate/r-shuai-g.png</file>
+        <file>img/delicate/r-xiang.png</file>
+        <file>img/delicate/r-xiang-d.png</file>
+        <file>img/delicate/w.png</file>
+        <file>img/delicate/w-d.png</file>
+        <file>img/board/canvas.png</file>
+    </qresource>
+</RCC>
